@@ -1,0 +1,19 @@
+{
+  "name": "mon-respoohmyffod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "sass": "sass --watch ./sass/main.scss:.public/style/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bousbihfatouma/mon-respoOhmyffod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bousbihfatouma/mon-respoOhmyffod/issues"
+  },
+  "homepage": "https://github.com/Bousbihfatouma/mon-respoOhmyffod#readme"
+}
