@@ -1,23 +1,22 @@
 
-    .header-titreprincipal{
-      display: flex;
-    padding: 20px 0 15px 0;
+
+.logo-du-header {
+position: absolute;
+height: 28px;
+ }
+
+.header-titreprincipal{
+  display        : flex;
+    padding        : 20px 0 15px 0;
     justify-content: center;
-    height: 28px;
+    height         : 28px;
 }
 .link-vers-lien-accueil{
- align-items: center;
+   align-items: center;
         display    : flex;
         font-size  : 18px;
         margin     : 0 40px 0 20px;
         flex-grow  : 1;
-        margin-right: 70%;
+        margin-right: 90%;
         justify-content: center;
-    }
-
-.logo-du-header{
-  position: absolute;
-  height: 28px;
-  display: flex;
-  justify-content: center;
 }
